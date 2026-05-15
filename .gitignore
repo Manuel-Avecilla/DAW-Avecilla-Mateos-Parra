@@ -1,0 +1,8 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios de Jekyll (Just the Docs compila en este directorio si se corre en local)
+_site/
+.jekyll-cache/
+.jekyll-metadata
