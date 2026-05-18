@@ -4,7 +4,6 @@ description: Repositorio documental del módulo
 baseurl: "/DAW-Avecilla-Mateos-Parra"
 
 # Opciones Just the Docs
-color_scheme: auto
 search_enabled: true
 heading_anchors: true
 back_to_top: true
