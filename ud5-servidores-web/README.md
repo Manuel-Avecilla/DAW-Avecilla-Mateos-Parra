@@ -14,7 +14,11 @@ Esta unidad trata sobre Apache, Nginx, hosts virtuales, módulos, logs y optimiz
 - Antonio Mateos Delgado
 - Jesús Parra Jiménez
 
-## Índice
-1. Materiales del profesor
-2. Entregas del grupo
-3. Recursos adicionales
+## Contenidos de la Unidad
+
+| Sección | Descripción | Acceso rápido |
+| :--- | :--- | :--- |
+| **Material del Profesor** | Apuntes, presentaciones y normas del módulo. | [Ver material](./material-profesor/README.html) |
+| **Entregas** | Prácticas y trabajos del grupo (Avecilla, Mateos, Parra). | [Ver entregas](./entregas/README.html) |
+| **Recursos Adicionales** | Documentación complementaria y bibliografía extra. | [Ver recursos](./recursos-adicionales/README.html) |
+| **Assets** | Recursos multimedia (imágenes, vídeos) de la unidad. | [Ver assets](./assets/README.html) |
