@@ -1,0 +1,14 @@
+remote_theme: just-the-docs/just-the-docs
+title: DAW — Despliegue de Aplicaciones Web
+description: Repositorio documental del módulo
+baseurl: "/DAW-Avecilla-Mateos-Parra"
+
+# Opciones Just the Docs
+color_scheme: auto
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Volver arriba"
+
+# Footer
+footer_content: "Documentación mantenida por Avecilla, Mateos y Parra."
