@@ -18,7 +18,7 @@ Esta unidad trata sobre los conceptos fundamentales del despliegue: ciclo de vid
 
 | Sección | Descripción | Acceso rápido |
 | :--- | :--- | :--- |
-| 📚 **Material del Profesor** | Apuntes, presentaciones y normas del módulo. | [Ver material](./material-profesor/) |
-| 📝 **Entregas** | Prácticas y trabajos del grupo (Avecilla, Mateos, Parra). | [Ver entregas](./entregas/) |
-| 🔗 **Recursos Adicionales** | Documentación complementaria y bibliografía extra. | [Ver recursos](./recursos-adicionales/) |
-| 🖼️ **Assets** | Recursos multimedia (imágenes, vídeos) de la unidad. | [Ver assets](./assets/) |
+| **Material del Profesor** | Apuntes, presentaciones y normas del módulo. | [Ver material](./material-profesor/) |
+| **Entregas** | Prácticas y trabajos del grupo (Avecilla, Mateos, Parra). | [Ver entregas](./entregas/) |
+| **Recursos Adicionales** | Documentación complementaria y bibliografía extra. | [Ver recursos](./recursos-adicionales/) |
+| **Assets** | Recursos multimedia (imágenes, vídeos) de la unidad. | [Ver assets](./assets/) |

@@ -5,7 +5,7 @@ parent: "Entregas"
 grand_parent: "UD1 - Introducción"
 ---
 
-[⬅️ Volver a Entregas](../)
+[Volver a Entregas](../)
 
 # Entregas de Manuel Avecilla
 
