@@ -13,8 +13,3 @@ En esta sección se incluyen herramientas, cheatsheets y referencias transversal
 - Manuel Avecilla Gavilán
 - Antonio Mateos Delgado
 - Jesús Parra Jiménez
-
-## Índice
-1. Cheatsheets
-2. Herramientas
-3. Referencias transversales
