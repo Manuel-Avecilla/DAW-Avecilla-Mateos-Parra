@@ -7,6 +7,6 @@ grand_parent: "UD1 - Introducción"
 
 [Volver a Entregas](../)
 
-# Entregas de Antonio Mateos
+# Entregas de Antonio Mateos Delgado
 
 *(No hay entregas disponibles actualmente)*

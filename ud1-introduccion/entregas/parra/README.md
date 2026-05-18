@@ -7,6 +7,6 @@ grand_parent: "UD1 - Introducción"
 
 [Volver a Entregas](../)
 
-# Entregas de Jesús Parra
+# Entregas de Jesús Parra Jiménez
 
 *(No hay entregas disponibles actualmente)*
