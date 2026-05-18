@@ -5,7 +5,7 @@ parent: "Entregas"
 grand_parent: "UD2 - Conexiones Remotas"
 ---
 
-[Volver a Entregas](../)
+[Volver a Entregas](../README.html)
 
 # Entregas de Antonio Mateos Delgado
 

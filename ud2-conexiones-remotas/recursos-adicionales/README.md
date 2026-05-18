@@ -5,7 +5,7 @@ parent: "UD2 - Conexiones Remotas"
 nav_order: 3
 ---
 
-[Volver a UD2 - Conexiones Remotas](../)
+[Volver a UD2 - Conexiones Remotas](../README.html)
 
 # Recursos Adicionales
 

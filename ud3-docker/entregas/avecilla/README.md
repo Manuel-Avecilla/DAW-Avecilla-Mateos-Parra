@@ -5,7 +5,7 @@ parent: "Entregas"
 grand_parent: "UD3 - Docker"
 ---
 
-[Volver a Entregas](../)
+[Volver a Entregas](../README.html)
 
 # Entregas de Manuel Avecilla Gavilán
 

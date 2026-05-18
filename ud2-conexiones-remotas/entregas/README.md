@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
-[Volver a UD2 - Conexiones Remotas](../)
+[Volver a UD2 - Conexiones Remotas](../README.html)
 
 # Entregas del Grupo
 
